@@ -1,4 +1,4 @@
-name: qualitativeanalysis
+name: a11y-qual-analysis
 channels:
   - conda-forge
 dependencies:

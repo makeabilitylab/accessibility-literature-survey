@@ -23,7 +23,7 @@ Make sure you are in the `/src` directory. For example, for me (on my Mac), this
 > conda env create -f QualitativeAnalysis_Environment.yml
 ```
 
-Optionally, if you'd like to list the active conda environments on your system and verify that the `qualitativeanalysis` environment was created:
+Optionally, if you'd like to list the active conda environments on your system and verify that the `a11y-qual-analysis` environment was created:
 
 ```
 > conda env list
@@ -32,20 +32,20 @@ Optionally, if you'd like to list the active conda environments on your system a
 ### Step 2: activate the environment
 
 ```
-> conda activate qualitativeanalysis
+> conda activate a11y-qual-analysis
 ```
 
 ### Step 3: open jupyter notebook
-Now you should see the command line prompt prefixed by the current environment: `(qualitativeanalysis)`. So, your command prompt should look like the following or something similar:
+Now you should see the command line prompt prefixed by the current environment: `(a11y-qual-analysis)`. So, your command prompt should look like the following or something similar:
 
 ```
-(qualitativeanalysis)$
+(a11y-qual-analysis)$
 ```
 
 Now you can type in `jupyter notebook` and find `QualitativeAnalysis.ipynb`. It's easiest to do this from the root dir (e.g., `\accessibility-literature-survey\` or the src directory `\accessibility-literature-survey\src`).
 
 ```
-(qualitativeanalysis)$ jupyter notebook
+(a11y-qual-analysis)$ jupyter notebook
 ```
 
 In Jupyter Notebook environment, navigate to the `QualitativeAnalysis.ipynb` file and open it.
