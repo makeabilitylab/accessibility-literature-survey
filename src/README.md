@@ -6,9 +6,9 @@ The `QualitativeAnalysis.ipynb` notebook must be run with the `QualitativeAnalys
 Follow the instructions below and consult the [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) section in the conda docs for more details. There is also a nice conda cheetsheet [here](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
 
 ### Step 1 Open your Anaconda terminal and go to the src dir
-On Mac, this should be as simple as opening `terminal` (or I use [`iterm2`](https://iterm2.com/)).
+On **Mac**, this should be as simple as opening `terminal` (or, for example, use [`iterm2`](https://iterm2.com/)—my preferred terminal program).
 
-On Windows, open the `Anaconda Powershell Prompt`.
+On **Windows**, open the `Anaconda Powershell Prompt`.
 
 Make sure you are in the `/src` directory. For example, for me (on my Mac), this is:
 
