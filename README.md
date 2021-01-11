@@ -18,6 +18,8 @@ To analyze the 506 accessibility papers from 2010-2019 at CHI and ASSETS, we use
 
 - **[Dataset1_QualitativelyCodedData_ASSETSandCHI_2010-2019.csv](/datasets/Dataset1_QualitativelyCodedData_ASSETSandCHI_2010-2019.csv)**: The results of our qualitative analysis using the above codebook
 
+- **[Dataset1_TotalPaperCountsPerYear_ASSETSandCHI_2010-2019.csv](/datasets/Dataset1_TotalPaperCountsPerYear_ASSETSandCHI_2010-2019.csv)**: The total number of papers at ASSETS and CHI from 2010-2019.
+
 - **[QualitativeAnalysis.ipynb](/src/QualitativeAnalysis.ipynb)**: The analysis scripts for Study 1. You can open up this notebook live in your browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/8427cee3d61113ed5305fdc9051fd2cca5b8841a?filepath=src%2FQualitativeAnalysis.ipynb) or run it locally using Jupyter Notebook and Anaconda. See [src/README.md](/src).
 
 ### Study 2 Datasets
