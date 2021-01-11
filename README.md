@@ -25,6 +25,6 @@ To analyze the 506 accessibility papers from 2010-2019 at CHI and ASSETS, we use
 ### Study 2
 For the second analysis, we built on the 506 papers above by adding all 285 ASSETS papers and 45 CHI accessibility papers that appeared in 1994-2009, for a total of 836 papers over the 26-year period. See Sections 3.1.2, 3.2.2, and 4.4 for details.
 
-- **Dataset2_KeywordMappings.csv**: <Need a definition for this file>
+- **[Dataset2_KeywordMappings.csv](/datasets/Dataset2_KeywordMappings.csv)**: contains a list of the author keywords used in the papers in our quantitative dataset and the labels we manually assigned to them for our quantitative analysis (see section 4.4.2 of the paper).
 
-- **Dataset2_PaperMetadata_ASSETSandCHI_1994-2019.csv**: <need a definition for this file>
+- **[Dataset2_PaperMetadata_ASSETSandCHI_1994-2019.csv](/datasets/Dataset2_PaperMetadata_ASSETSandCHI_1994-2019.csv)**: contains the metadata of 836 accessibility papers from 1994-2019 used in our quantitative analysis.
