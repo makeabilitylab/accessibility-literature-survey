@@ -1,20 +1,27 @@
 
 
 ## Qualitative Analysis Scripts
-The `QualitativeAnalysis.ipynb` notebook must be run with the `environment.yml` Anaconda environment. 
+You can run the qualitative analysis notebook (`QualitativeAnalysis.ipynb`) live in your web browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/54f371e7d1d16cf624e4606e5454072bed91fc58) or locally using the [Anaconda](https://www.anaconda.com/) environment.  
+
+### Running the notebook using binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/HEAD)
+
+[Binder](https://mybinder.org/) lets you run Git repos as interactive notebooks. Click [here to run `QualitativeAnalysis.ipynb` in binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/54f371e7d1d16cf624e4606e5454072bed91fc58).
+
+### Running the notebook locally using Anaconda 
 
 Follow the instructions below and consult the [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) section in the conda docs for more details. There is also a nice conda cheetsheet [here](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
 
-### Step 1 Open your Anaconda terminal and go to the src dir
+### Step 1: Open your Anaconda terminal and go to the src dir
 On **Mac**, this should be as simple as opening `terminal` (or, for example, use [`iterm2`](https://iterm2.com/)—my preferred terminal program).
 
 On **Windows**, open the `Anaconda Powershell Prompt`.
 
-Make sure you are in the `/src` directory. For example, for me (on my Mac), this is:
+Make sure you are in the root directory of this project. For example, for me (on my Mac), this is:
 
 ```
 > pwd
-/Users/jonf/Git/accessibility-literature-survey/src
+/Users/jonf/Git/accessibility-literature-survey
 ```
 
 ### Step 2: create an environment from the environment.yml file
