@@ -1,7 +1,7 @@
 
 
 ## Qualitative Analysis Scripts
-The `QualitativeAnalysis.ipynb` notebook must be run with the `QualitativeAnalysis_Environment.yml` Anaconda environment. 
+The `QualitativeAnalysis.ipynb` notebook must be run with the `environment.yml` Anaconda environment. 
 
 Follow the instructions below and consult the [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) section in the conda docs for more details. There is also a nice conda cheetsheet [here](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
 
@@ -20,7 +20,7 @@ Make sure you are in the `/src` directory. For example, for me (on my Mac), this
 ### Step 2: create an environment from the environment.yml file
 
 ```
-> conda env create -f QualitativeAnalysis_Environment.yml
+> conda env create -f environment.yml
 ```
 
 Optionally, if you'd like to list the active conda environments on your system and verify that the `a11y-qual-analysis` environment was created:
