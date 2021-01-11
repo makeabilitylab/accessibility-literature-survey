@@ -1,7 +1,7 @@
 # A Systematic Review of Accessibility Papers
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/HEAD)
 
-This repo contains the data and code for our CHI2021 accessibility literature survey paper entitled *"What Do We Mean by 'Accessibility Research'? A Systematic Review of Accessibility Papers in CHI and ASSETS from 1994 to 2019"* by Kelly Mack, Emma McDonnell, Dhruv Jain, Lucy Lu Wang, [Jon E. Froehlich](https://jonfroehlich.github.io/), and [Leah Findlater](https://www.hcde.washington.edu/findlater).
+This repo contains the data and code for our CHI2021 accessibility literature survey paper entitled *"What Do We Mean by 'Accessibility Research'? A Systematic Review of Accessibility Papers in CHI and ASSETS from 1994 to 2019"* by [Kelly Mack](https://kmack3.github.io/), Emma McDonnell, [Dhruv Jain](https://homes.cs.washington.edu/~djain/), [Lucy Lu Wang](https://www.llwang.net/), [Jon E. Froehlich](https://jonfroehlich.github.io/), and [Leah Findlater](https://www.hcde.washington.edu/findlater).
 
 You can run the analysis notebooks live in your browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/HEAD) or run them locally using [Jupyter Notebook](https://jupyter.org/) and the [Anaconda](https://www.anaconda.com/) environment.
 
