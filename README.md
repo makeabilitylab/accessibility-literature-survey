@@ -3,7 +3,7 @@
 
 This repo contains the data and code for our CHI2021 accessibility literature survey paper entitled *"What Do We Mean by 'Accessibility Research'? A Systematic Review of Accessibility Papers in CHI and ASSETS from 1994 to 2019"* by Kelly Mack, Emma McDonnell, Dhruv Jain, Lucy Lu Wang, [Jon E. Froehlich](https://jonfroehlich.github.io/), and [Leah Findlater](https://www.hcde.washington.edu/findlater).
 
-You can run the analysis notebooks live in your browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/HEAD).
+You can run the analysis notebooks live in your browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/HEAD) or run them locally using [Jupyter Notebook](https://jupyter.org/) and the [Anaconda](https://www.anaconda.com/) environment.
 
 ## Datasets
 The Mack paper presents analyses of two accessibility paper datasets drawn from CHI and ASSETS:
