@@ -1,12 +1,12 @@
 
 
 ## Qualitative Analysis Scripts
-You can run the qualitative analysis notebook (`QualitativeAnalysis.ipynb`) live in your web browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/54f371e7d1d16cf624e4606e5454072bed91fc58) or locally using the [Anaconda](https://www.anaconda.com/) environment.  
+You can run the Study 1 qualitative analysis notebook (`Study1_QualitativeAnalysis.ipynb`) live in your web browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/54f371e7d1d16cf624e4606e5454072bed91fc58) or locally using the [Anaconda](https://www.anaconda.com/) environment.  
 
 ### Running the notebook using binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/8427cee3d61113ed5305fdc9051fd2cca5b8841a?filepath=src%2FQualitativeAnalysis.ipynb)
 
-[Binder](https://mybinder.org/) lets you run Git repos as interactive notebooks. Click [here to run `QualitativeAnalysis.ipynb` in binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/8427cee3d61113ed5305fdc9051fd2cca5b8841a?filepath=src%2FQualitativeAnalysis.ipynb).
+[Binder](https://mybinder.org/) lets you run Git repos as interactive notebooks. Click [here to run `Study1_QualitativeAnalysis.ipynb` in binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/8427cee3d61113ed5305fdc9051fd2cca5b8841a?filepath=src%2FStudy1_QualitativeAnalysis.ipynb).
 
 ### Running the notebook locally using Anaconda 
 
@@ -49,10 +49,10 @@ Now you should see the command line prompt prefixed by the current environment: 
 (a11y-qual-analysis)$
 ```
 
-Now you can type in `jupyter notebook` and find `QualitativeAnalysis.ipynb`. It's easiest to do this from the root dir (e.g., `\accessibility-literature-survey\` or the src directory `\accessibility-literature-survey\src`).
+Now you can type in `jupyter notebook` and find `Study1_QualitativeAnalysis.ipynb`. It's easiest to do this from the root dir (e.g., `\accessibility-literature-survey\` or the src directory `\accessibility-literature-survey\src`).
 
 ```
 (a11y-qual-analysis)$ jupyter notebook
 ```
 
-In Jupyter Notebook environment, navigate to the `QualitativeAnalysis.ipynb` file and open it.
+In Jupyter Notebook environment, navigate to the `Study1_QualitativeAnalysis.ipynb` file and open it.
