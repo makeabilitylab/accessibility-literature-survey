@@ -10,3 +10,4 @@ dependencies:
   - pandas=1.1.1
   - xlrd=1.2.*
   - jupyter_contrib_nbextensions
+  - nltk=3.5.*

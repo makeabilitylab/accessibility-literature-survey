@@ -28,3 +28,6 @@ For the second analysis, we built on the 506 papers above by adding all 285 ASSE
 - **[Dataset2_KeywordMappings.csv](/datasets/Dataset2_KeywordMappings.csv)**: contains a list of the author keywords used in the papers in our quantitative dataset and the labels we manually assigned to them for our quantitative analysis (see section 4.4.2 of the paper).
 
 - **[Dataset2_PaperMetadata_ASSETSandCHI_1994-2019.csv](/datasets/Dataset2_PaperMetadata_ASSETSandCHI_1994-2019.csv)**: contains the metadata of 836 accessibility papers from 1994-2019 used in our quantitative analysis.
+
+- **[Dataset2_PaperMetadata_AllCHI.csv](/datasets/Dataset2_PaperMetadata_AllCHI.csv)**: contains the metadata of all CHI papers from ACM.
+
