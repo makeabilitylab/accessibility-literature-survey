@@ -1,6 +1,6 @@
 
 
-## Qualitative Analysis Scripts
+## Study 1 Qualitative Analysis Notebook
 You can run the Study 1 qualitative analysis notebook (`Study1_QualitativeAnalysis.ipynb`) live in your web browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/54f371e7d1d16cf624e4606e5454072bed91fc58) or locally using the [Anaconda](https://www.anaconda.com/) environment.  
 
 ### Running the notebook using binder
