@@ -20,7 +20,7 @@ To analyze the 506 accessibility papers from 2010-2019 at CHI and ASSETS, we use
 
 - **[Dataset1_TotalPaperCountsPerYear_ASSETSandCHI_2010-2019.csv](/datasets/Dataset1_TotalPaperCountsPerYear_ASSETSandCHI_2010-2019.csv)**: The total number of papers at ASSETS and CHI from 2010-2019.
 
-- **[QualitativeAnalysis.ipynb](/src/QualitativeAnalysis.ipynb)**: The analysis scripts for Study 1. You can open up this notebook live in your browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/8427cee3d61113ed5305fdc9051fd2cca5b8841a?filepath=src%2FQualitativeAnalysis.ipynb) or run it locally using Jupyter Notebook and Anaconda. See [src/README.md](/src).
+- **[Study1_QualitativeAnalysis.ipynb](/src/Study1_QualitativeAnalysis.ipynb)**: The analysis scripts for Study 1. You can open up this notebook live in your browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/8427cee3d61113ed5305fdc9051fd2cca5b8841a?filepath=src%2FQualitativeAnalysis.ipynb) or run it locally using Jupyter Notebook and Anaconda. See [src/README.md](/src).
 
 ### Study 2
 For the second analysis, we built on the 506 papers above by adding all 285 ASSETS papers and 45 CHI accessibility papers that appeared in 1994-2009, for a total of 836 papers over the 26-year period. See Sections 3.1.2, 3.2.2, and 4.4 for details.
@@ -31,3 +31,4 @@ For the second analysis, we built on the 506 papers above by adding all 285 ASSE
 
 - **[Dataset2_PaperMetadata_AllCHI.csv](/datasets/Dataset2_PaperMetadata_AllCHI.csv)**: contains the metadata of all CHI papers from ACM.
 
+- **[Study2_QuantitativeAnalysis.ipynb](/src/Study2_QuantitativeAnalysis.ipynb)**: The analysis scripts for Study 2.
