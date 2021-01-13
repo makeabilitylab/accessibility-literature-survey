@@ -4,9 +4,9 @@
 You can run the Study 1 qualitative analysis notebook (`Study1_QualitativeAnalysis.ipynb`) live in your web browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/54f371e7d1d16cf624e4606e5454072bed91fc58) or locally using the [Anaconda](https://www.anaconda.com/) environment.  
 
 ### Running the notebook using binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/8427cee3d61113ed5305fdc9051fd2cca5b8841a?filepath=src%2FQualitativeAnalysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/14c718abe764770b20519780eca68a8370400ff2?filepath=src%2FStudy1_QualitativeAnalysis.ipynb)
 
-[Binder](https://mybinder.org/) lets you run Git repos as interactive notebooks. Click [here to run `Study1_QualitativeAnalysis.ipynb` in binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/8427cee3d61113ed5305fdc9051fd2cca5b8841a?filepath=src%2FStudy1_QualitativeAnalysis.ipynb).
+[Binder](https://mybinder.org/) lets you run Git repos as interactive notebooks. Click [here to run `Study1_QualitativeAnalysis.ipynb` in binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/14c718abe764770b20519780eca68a8370400ff2?filepath=src%2FStudy1_QualitativeAnalysis.ipynb).
 
 ### Running the notebook locally using Anaconda 
 
