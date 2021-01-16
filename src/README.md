@@ -6,7 +6,7 @@ You can run the Study 1 qualitative analysis notebook (`Study1_QualitativeAnalys
 ### Running the notebook using binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/14c718abe764770b20519780eca68a8370400ff2?filepath=src%2FStudy1_QualitativeAnalysis.ipynb)
 
-[Binder](https://mybinder.org/) lets you run Git repos as interactive notebooks. Click [here to run `Study1_QualitativeAnalysis.ipynb` in binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/14c718abe764770b20519780eca68a8370400ff2?filepath=src%2FStudy1_QualitativeAnalysis.ipynb).
+[Binder](https://mybinder.org/) lets you run Git repos as interactive notebooks. Click [here](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/f3b899834b0510427ca45732c15a41975fe49050?filepath=src%2FStudy1_QualitativeAnalysis.ipynb) to run `Study1_QualitativeAnalysis.ipynb` in binder.
 
 ### Running the notebook locally using Anaconda 
 
