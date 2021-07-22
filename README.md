@@ -1,7 +1,11 @@
 # A Systematic Review of Accessibility Papers
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/HEAD)
 
-This repo contains the data and code for our CHI2021 accessibility literature survey paper entitled *"What Do We Mean by 'Accessibility Research'? A Systematic Review of Accessibility Papers in CHI and ASSETS from 1994 to 2019"* by [Kelly Mack](https://kmack3.github.io/), Emma McDonnell, [Dhruv Jain](https://homes.cs.washington.edu/~djain/), [Lucy Lu Wang](https://www.llwang.net/), [Jon E. Froehlich](https://jonfroehlich.github.io/), and [Leah Findlater](https://www.hcde.washington.edu/findlater). You can find the repo to our follow-up Late-Breaking Work bibliometric analysis [here](https://github.com/makeabilitylab/accessibility-bibliometric-analysis).
+This repo contains the data and code for our CHI2021 accessibility literature survey paper entitled *["What Do We Mean by 'Accessibility Research'? A Systematic Review of Accessibility Papers in CHI and ASSETS from 1994 to 2019"](https://doi.org/10.1145/3411764.3445412)* by [Kelly Mack](https://kmack3.github.io/), Emma McDonnell, [Dhruv Jain](https://homes.cs.washington.edu/~djain/), [Lucy Lu Wang](https://www.llwang.net/), [Jon E. Froehlich](https://jonfroehlich.github.io/), and [Leah Findlater](https://www.hcde.washington.edu/findlater). You can find the repo to our follow-up Late-Breaking Work bibliometric analysis [here](https://github.com/makeabilitylab/accessibility-bibliometric-analysis).
+
+Please cite this dataset as:
+
+> Kelly Mack, Emma McDonnell, Dhruv Jain, Lucy Lu Wang, Jon E. Froehlich, and Leah Findlater. 2021. What Do We Mean by “Accessibility Research”? A Literature Survey of Accessibility Papers in CHI and ASSETS from 1994 to 2019. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, Article 371, 1–18. DOI:https://doi.org/10.1145/3411764.3445412
 
 You can run the analysis notebooks live in your browser using [binder](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/HEAD) or run them locally using [Jupyter Notebook](https://jupyter.org/) and the [Anaconda](https://www.anaconda.com/) environment.
 
