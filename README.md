@@ -1,7 +1,7 @@
 # A Systematic Review of Accessibility Papers
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makeabilitylab/accessibility-literature-survey/HEAD)
 
-This repo contains the data and code for our CHI2021 accessibility literature survey paper entitled *["What Do We Mean by 'Accessibility Research'? A Systematic Review of Accessibility Papers in CHI and ASSETS from 1994 to 2019"](https://doi.org/10.1145/3411764.3445412)* by [Kelly Mack](https://kmack3.github.io/), Emma McDonnell, [Dhruv Jain](https://homes.cs.washington.edu/~djain/), [Lucy Lu Wang](https://www.llwang.net/), [Jon E. Froehlich](https://jonfroehlich.github.io/), and [Leah Findlater](https://www.hcde.washington.edu/findlater). You can find the repo to our follow-up Late-Breaking Work bibliometric analysis [here](https://github.com/makeabilitylab/accessibility-bibliometric-analysis).
+This repo contains the data and code for our CHI2021 accessibility literature survey paper entitled *["What Do We Mean by 'Accessibility Research'? A Systematic Review of Accessibility Papers in CHI and ASSETS from 1994 to 2019"](https://doi.org/10.1145/3411764.3445412)* by [Kelly Mack](https://kmack3.github.io/), Emma McDonnell, [Dhruv Jain](https://homes.cs.washington.edu/~djain/), [Lucy Lu Wang](https://www.llwang.net/), [Jon E. Froehlich](https://jonfroehlich.github.io/), and [Leah Findlater](https://www.hcde.washington.edu/findlater). Note: we have a follow-up paper focused primarily on large-scale bibliometric analysis. You can find the repo for that other work [here](https://github.com/makeabilitylab/accessibility-bibliometric-analysis).
 
 Please cite this dataset as:
 
